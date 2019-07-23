@@ -1,0 +1,15 @@
+.valid {
+  background-color: rgb(43, 255, 0);
+}
+
+.invalid {
+  background-color: rgb(255, 80, 80);
+}
+
+p {
+  color:  rgb(255, 80, 80);
+}
+
+.hide {
+  display: none;
+}
